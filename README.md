@@ -1,2 +1,2 @@
-# semyon006.github.io
+# Semyon zerozerosix
 My first published site
